@@ -1,0 +1,51 @@
+body{
+    background-color:mistyrose;
+    font-family: monospace;
+}
+
+#score{
+    font-size: 25px;
+    float: left;
+    margin-left: 90px;
+    color:navy;
+}
+
+#timer{
+    font-size: 25px;
+    float:right;
+    margin-right: 90px;
+    color:navy;
+}
+
+#sketch_name{
+    color:maroon;
+    font-size: 20px;
+}
+
+#sketch{
+    font-size:20px;
+    color:steelblue;
+}
+
+#confidence{
+    font-size:20px;
+    color:mintcream;
+}
+
+h1{
+    color:indigo;
+    padding-left: 215px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width:90%;
+    background-color:rosybrown;
+    border-color:black;
+    border-style: dashed;
+    border-width: 2px;
+
+}
+
+#show_sketch{
+    float:right;
+    margin-right:100px;
+}
